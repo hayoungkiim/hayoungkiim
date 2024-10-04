@@ -22,5 +22,4 @@
    <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
 </div>
 
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayoungkiim&layout=compact)](https://github.com/hayoungkiim/github-readme-stats)
